@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "solitary-moon-426c",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "202091d1-8229-4fe4-871c-3d69a0c14407",
+      "database_name": "solitary-moon-426c-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
